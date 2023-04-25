@@ -1,0 +1,16 @@
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.exe
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.deps.json
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.runtimeconfig.json
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.runtimeconfig.dev.json
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.dll
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\ref\LeetcodePartitionLabelsApp.dll
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\bin\Debug\net5.0\LeetcodePartitionLabelsApp.pdb
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.csproj.AssemblyReference.cache
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.AssemblyInfoInputs.cache
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.AssemblyInfo.cs
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.csproj.CoreCompileInputs.cache
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.dll
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\ref\LeetcodePartitionLabelsApp.dll
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.pdb
+C:\Users\iparker\Documents\Code\PartitionLabels\LeetcodePartitionLabelsApp\obj\Debug\net5.0\LeetcodePartitionLabelsApp.genruntimeconfig.cache
